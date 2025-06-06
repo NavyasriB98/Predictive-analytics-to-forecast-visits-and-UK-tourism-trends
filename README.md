@@ -1,1 +1,3 @@
 # Predictive-analytics-to-forecast-visits-and-UK-tourism-trends
+my master thesis project- predictive analystics to forecast visits and uk trends towards tourism.
+I developed a predictive analytics model to forecast tourist visits to the UK using historical data from 2009 to 2018. I cleaned and prepared large datasets, performed exploratory data analysis to uncover trends in tourism, and identified seasonal patterns and spending habits by age group and travel type. I built a forecasting model using Exponential Smoothing to predict 2019 tourist numbers and created interactive visualizations to present insights to stakeholders.
